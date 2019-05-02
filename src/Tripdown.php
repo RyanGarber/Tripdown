@@ -1,4 +1,6 @@
 <?php
+namespace RyanGarber\Tripdown;
+use ParsedownExtra;
 class Tripdown extends ParsedownExtra {
     private function convertTable($Element) {
         if(!$Element) return $Element;
