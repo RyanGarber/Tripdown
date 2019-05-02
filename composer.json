@@ -1,0 +1,19 @@
+{
+    "name": "ryangarber/tripdown",
+    "description": "Extends ParsedownExtra for easier and prettier formatting",
+    "type": "library",
+    "require": {
+        "erusev/parsedown-extra": "^0.7.1"
+    },
+    "require-dev": {
+        "erusev/parsedown-extra": "^0.7.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ryan",
+            "email": "ryanmichaelgarber@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
